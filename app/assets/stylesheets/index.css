@@ -65,7 +65,7 @@
 .main-header {
   height: 100px;
   width: 100%;
-  padding: 0 40px ;
+  padding: 0 40px;
   display: flex;
   justify-content: space-between;
 }
