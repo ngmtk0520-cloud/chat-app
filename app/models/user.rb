@@ -8,4 +8,6 @@ class User < ApplicationRecord
 
   has_many :room_user
   has_many :rooms, through: :room_user
+  has_many :messages
+  
 end
